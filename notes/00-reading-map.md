@@ -21,7 +21,7 @@ Create a file under `notes/papers/` using `paper-note-template.md`.
 
 | Paper | Status | Version/date | Follow-up question |
 |---|---|---|---|
-| Wolfers & Zitzewitz (2004) | Not started | | |
+| Wolfers & Zitzewitz (2004) | Reading page ready | | |
 | Sonnemann et al. (2013) | Not started | | |
 | Rothschild & Pennock (2014) | Not started | | |
 | Gómez-Cram et al. (2026) | Not started | | |
